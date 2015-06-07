@@ -16,7 +16,7 @@
 
 		],
 		"psr-4": {
-
+            "Common\\": "../common/"
 		}
 	},
 	"autoload-dev": {
